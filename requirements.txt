@@ -1,0 +1,5 @@
+opencv-python
+pytesseract
+PyYAML
+pdf2image
+# numpy # Обычно устанавливается с opencv-python, но можно добавить для ясности
